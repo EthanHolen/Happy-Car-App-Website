@@ -1,13 +1,13 @@
 name: Happy Car
-description: Reminding you to keep your registration up to date <b>before</b> you get pulled over
+description: Reminding you to keep your registration up to date <b>before</b> you get pulled over.
 full_description: 'One place to store and track all the documents associated with your vehicle.<br>
 <br>With a lot of features:
 <br>- Track and keep notes on the ID, insurance, and registration for your vehicle.
-<br>- Get notified every time something is about to expire
+<br>- Get notified every time something is about to expire.
 <br>
 <br>- Premium:
-<br>- Track multiple vehicles and their associated documents
-<br>- Add multiple custom documents to each vehicle to track even more information
+<br>- Track multiple vehicles and their associated documents.
+<br>- Add multiple custom documents to each vehicle to track even more information.
 <br>'
 # android: https://telegra.ph/Replace-this-link-07-23
 iOS: https://telegra.ph/Replace-this-link-07-23
@@ -16,7 +16,7 @@ screenshots:
   - 1.png
   - 2.png
   - 3.png
-  - 4.png
+  # - 4.png
 # producthunt: https://telegra.ph/Replace-this-link-07-23
 # companies:
 #   - url: https://telegra.ph/Replace-this-link-07-23
