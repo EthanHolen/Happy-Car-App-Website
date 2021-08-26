@@ -9,17 +9,17 @@ full_description: 'One place to store and track all the documents associated wit
 <br>- Track multiple vehicles and their associated documents
 <br>- Add multiple custom documents to each vehicle to track even more information
 <br>'
-android: https://telegra.ph/Replace-this-link-07-23
+# android: https://telegra.ph/Replace-this-link-07-23
 iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+# web: https://telegra.ph/Replace-this-link-07-23
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+# producthunt: https://telegra.ph/Replace-this-link-07-23
+# companies:
+#   - url: https://telegra.ph/Replace-this-link-07-23
+#     image: androidpolice.png
+#   - url: https://telegra.ph/Replace-this-link-07-23
+#     image: producthunt.png
